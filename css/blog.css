@@ -1,0 +1,78 @@
+*{margin: 0;padding: 0;}
+.container img{width:100%!important;}
+.rq{
+    border-top:4px solid black;
+    padding: 16px;
+    color: #fff;
+    text-align: center;
+    background: #f44336;
+    font-size: 1.4em;
+    height:143px;
+}
+.rq h4{
+    line-height: 1.5;
+    margin: 0;
+}
+.rq p{
+    color: black;
+    margin: 0;
+    border-bottom:1px dotted #fff;
+}
+.rq a{
+    margin-top: 24px;
+}
+.wt p{
+    font-size: .9em;
+    color: #999;
+    margin: 1em 0 0;
+    line-height: 1.8em;
+}
+.wt ul{
+    list-style:none;
+    padding: 1em 0;
+    margin: 20px 0 45px;
+    border-top: 1px dotted #CDCCCC;
+    border-bottom: 1px dotted #CDCCCC;
+}
+.More:hover{
+    color:black;
+    border:1px solid black;
+    background:#fff;
+    transition: 1s;
+}
+.More{
+    font-size: .9em;
+    color: #fff;
+    text-decoration: none!important;
+    padding: .5em 1em;
+    background: #f44336;
+    border: solid 2px #f44336;
+}
+.rul li a{
+    font-size: .9em;
+    color: #989797;
+    line-height: 1.8em;
+    text-decoration: none;
+}
+.rul li a:hover{
+    color: #f44336;;
+}
+.rtow{
+    padding-bottom: 64px;
+    padding-top: 64px;
+}
+.rtow-text h4 a{
+    color: #f44336;
+    font-size: 0.7em;
+    text-decoration: none;
+    font-weight: 600;
+}
+.rtow-text h4 a:hover{
+    color: #000!important;
+}
+.rtow-text p{
+    color: #bbbbbb;
+    font-size: .9em;
+    margin: 0;
+    line-height: 1.8em;
+}
